@@ -1,4 +1,4 @@
-//c/Users/timothytan/mongodb/bin/mongod --dbpath=/Users/timothytan/mongodb-data
+///Users/timothytan/mongodb/bin/mongod --dbpath=/Users/timothytan/mongodb-data
 
 const express = require("express");
 require("./db/mongoose");
